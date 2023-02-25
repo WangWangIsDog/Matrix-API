@@ -1,3 +1,3 @@
 # Matrix-API
 
-# Basic matrix and vertor math manipulations with txt files as inputs
+# Basic matrix and vector math manipulations with txt files as inputs
